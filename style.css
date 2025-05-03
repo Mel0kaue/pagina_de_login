@@ -70,3 +70,21 @@ button:active {
   border: 2px solid white;
   font-weight: bold;
 }
+
+.message {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 6px;
+  font-weight: bold;
+  text-align: center;
+  display: none;
+}
+.message.error {
+  background-color: #ffe0e0;
+  color: #d60000;
+}
+
+.message.success {
+  background-color: #e0ffe0;
+  color: #007e33;
+}
