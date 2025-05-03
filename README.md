@@ -17,6 +17,9 @@ Este projeto foi criado com o objetivo de:
 - Estilizar com CSS de forma responsiva e agradável
 - Servir como base para um futuro sistema com a integração de uma API feita em Java
 
+📷 Preview
+
+![Tela de Login](./assets/tela-login.png)
 
 📁 Como rodar
 
