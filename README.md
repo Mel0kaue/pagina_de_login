@@ -19,7 +19,7 @@ Este projeto foi criado com o objetivo de:
 
 📷 Preview
 
-![Tela de Login](./assets/tela-login.png)
+![Tela de Login](./assets/tela-de-login.png)
 
 📁 Como rodar
 
